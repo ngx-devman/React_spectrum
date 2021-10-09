@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/glasunovalex886/spetro-analysis.git"
+    "url": "https://github.com/ngx-devman/React_spectrum.git"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
